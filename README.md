@@ -1,0 +1,1 @@
+# decky-loader-win
